@@ -4,15 +4,19 @@ Project Overview
 The Music Genre Classification with PCA project is a machine learning endeavor that focuses on predicting the genres of unlabeled music tracks. The dataset comprises various musical features extracted from tracks spanning different genres. Notably, a substantial portion of the records lacks specific genre information, making this a challenging yet intriguing classification task.
 
 Objective
+
 The primary goal of this project is to employ Principal Component Analysis (PCA) to reduce the dimensionality of the dataset. By transforming numerous musical features into principal components, the project aims to uncover underlying patterns that may not be immediately evident in the raw data. The derived principal components will serve as the foundation for the subsequent application of supervised machine learning techniques, with a specific emphasis on logistic regression.
 
 Why Principal Component Analysis (PCA)?
+
 Music tracks inherently possess numerous features, some of which may be correlated. For example, certain rhythm patterns might be prevalent in specific genres like rock and blues. PCA comes into play by reducing redundancy—transforming correlated musical features into a set of linearly uncorrelated variables or principal components. This reduction in dimensionality enhances the performance of classification algorithms by eliminating noise and revealing essential patterns.
 
 Dataset and Features
+
 The dataset used in this project is extensive, with intuitive and accessible musical features designed to facilitate understanding without specialized audio knowledge. The features include various aspects such as rhythm patterns, tempo, and harmonic content.
 
 Project Flow
+
 Data Exploration:
 
 Analyze the dataset structure and understand the distribution of musical features.
