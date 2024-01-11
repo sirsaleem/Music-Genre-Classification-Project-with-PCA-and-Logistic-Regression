@@ -1,5 +1,6 @@
 # Music-Genre-Classification-Project-with-PCA-and-Logistic-Regression
 Project Overview
+
 The Music Genre Classification with PCA project is a machine learning endeavor that focuses on predicting the genres of unlabeled music tracks. The dataset comprises various musical features extracted from tracks spanning different genres. Notably, a substantial portion of the records lacks specific genre information, making this a challenging yet intriguing classification task.
 
 Objective
